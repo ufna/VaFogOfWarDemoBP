@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.24",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "VaFogOfWar",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/cf7668a20dde4ef6937eaab417bf55cf"
+		}
+	]
+}
